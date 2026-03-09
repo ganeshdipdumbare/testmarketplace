@@ -10,9 +10,9 @@
   },
   "plugins": [
     {
-      "name": "review-plugin",
-      "source": "./plugins/review-plugin",
-      "description": "Adds a /review skill for quick code reviews"
+      "name": "joke-plugin",
+      "source": "./plugins/joke-plugin",
+      "description": "Adds a /joke skill for programming jokes"
     }
   ]
 }

@@ -28,7 +28,7 @@ After adding the marketplace, install individual plugins:
 
 | Plugin | Description |
 |--------|-------------|
-| **review-plugin** | Adds a `/review` skill for quick code reviews (bugs, security, performance, readability) |
+| **joke-plugin** | Adds a `/joke` skill for programming jokes |
 
 ## Updating
 
