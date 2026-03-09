@@ -26,9 +26,17 @@ After adding the marketplace, install individual plugins:
 
 ## Available plugins
 
-| Plugin | Description |
-|--------|-------------|
-| **joke-plugin** | Adds a `/joke` skill for programming jokes |
+| Plugin | Version | Description |
+|--------|---------|-------------|
+| **joke-plugin** | 1.1.0 | Adds a `/joke` skill for programming jokes |
+
+## Versioning
+
+Plugins are versioned so you can track updates. After updating the marketplace (`/plugin marketplace update`), reinstall a plugin to get the latest version:
+
+```
+/plugin install joke-plugin@testmarketplace
+```
 
 ## Updating
 
