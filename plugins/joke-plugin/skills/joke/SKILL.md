@@ -1,4 +1,5 @@
 ---
+name: joke
 description: Tell a programming joke (v1.1.0)
 disable-model-invocation: true
 ---
